@@ -1,0 +1,14 @@
+Strengths
+Separation of Concerns:
+
+Business logic is handled in Servlets.
+Presentation logic is handled in JSP.
+Dynamic Data Handling:
+
+Session attributes are used to pass data between Servlet and JSP.
+Reusability:
+
+JSP pages and Servlets can be extended for additional features like login authentication or user roles.
+Standards:
+
+Follows MVC architecture principles to an extent.
